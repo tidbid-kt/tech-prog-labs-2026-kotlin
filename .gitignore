@@ -1,4 +1,7 @@
+### сборка ###
 target/
+out/
+.kotlin/
 
 ### IntelliJ IDEA ###
 .idea/
@@ -9,5 +12,6 @@ target/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
+### ОС ###
 .DS_Store
+Thumbs.db
